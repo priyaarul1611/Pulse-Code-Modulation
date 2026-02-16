@@ -130,11 +130,10 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
+
 <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/effc2fcb-ed9b-4e1f-aacc-8c1173382aed" />
 
 <img width="900" height="450" alt="image" src="https://github.com/user-attachments/assets/ed59437b-ab15-4acf-acc7-7d596771ea9e" />
-
-
 
 # Results
 Thus,the PCM AND DC is verified succesfully
